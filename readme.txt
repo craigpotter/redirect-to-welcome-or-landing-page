@@ -18,7 +18,7 @@ When the users come back to your website again they will see the normal home pag
 
 You can use this plugin for:
 
-*   Collect emails form users how visit your site.
+*   Collect emails from users who visits your site.
 *   Duple you Opt-in rate.
 *   Redirect users to announcement page about your new book or product.
 
